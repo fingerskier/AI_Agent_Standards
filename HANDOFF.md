@@ -1,3 +1,3 @@
 # Handoff Notes
 
-...describes the latest activities, current eork and whats next. 
+...a transcript (maybe its tail) of recent work.
